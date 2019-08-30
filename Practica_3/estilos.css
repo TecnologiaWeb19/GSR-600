@@ -1,0 +1,13 @@
+body{
+    background: url(bgblanco.png)repeat;
+    text-align: justify;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    color: rgb(54, 12, 207);
+}
+
+#content {
+    background: url(bglightblue.png)repeat;
+    clear: left;
+    padding: 20px;
+}
